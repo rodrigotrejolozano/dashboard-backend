@@ -32,7 +32,7 @@ src/
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/rodrigotrejolozano/dashboard-backend.git
 cd tu-repo/backend
 ```
 
